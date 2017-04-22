@@ -1,0 +1,7 @@
+C:\Users\saad\Desktop\part2\PdfToText\obj\Debug\PdfToText.csprojResolveAssemblyReference.cache
+C:\Users\saad\Desktop\part2\PdfToText\bin\Debug\PdfToText.exe
+C:\Users\saad\Desktop\part2\PdfToText\bin\Debug\PdfToText.pdb
+C:\Users\saad\Desktop\part2\PdfToText\bin\Debug\itextsharp.dll
+C:\Users\saad\Desktop\part2\PdfToText\bin\Debug\SharpZipLib.dll
+C:\Users\saad\Desktop\part2\PdfToText\obj\Debug\PdfToText.exe
+C:\Users\saad\Desktop\part2\PdfToText\obj\Debug\PdfToText.pdb
